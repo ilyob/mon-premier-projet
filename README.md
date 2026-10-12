@@ -2,4 +2,4 @@
 
 Bienvenue dans mon projet GitHub !
 
-Objectif : apprendre à programmer.
+Objectif : publier mes jeux.
